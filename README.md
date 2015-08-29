@@ -25,3 +25,4 @@ This is one directional, there is no relay from Slack to Skype.
       "https://icon_for_slack_post.jpeg"
   }
   ```
+4. java -jar target/scala-2.11/skypeslackrelay-assembly-{{version}}.jar config.scala
